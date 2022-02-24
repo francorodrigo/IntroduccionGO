@@ -41,4 +41,6 @@ func main() {
 	//Parseo de tipos de datos
 	fmt.Printf("El valor en formato entero es: %d, y el valor en formato decimal es %.2f\n", entero, float64(entero))
 
+	fmt.Println("Prueba de print")
+
 }
